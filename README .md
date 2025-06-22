@@ -15,6 +15,7 @@
 **Duration**: April 30 – June 30, 2025
 
 ## 📌 Project Overview
+
 This project is a **Login and Registration System** built using C++. It enables users to register with a unique username and password, stores the credentials securely in a file, and allows users to log in by verifying their stored credentials.
 
 The system demonstrates file handling and basic authentication mechanisms using C++.
